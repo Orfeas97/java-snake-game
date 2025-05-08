@@ -32,3 +32,9 @@ A classic Snake game implemented in Java using Swing for GUI rendering. This pro
    ```bash
    git clone https://github.com/yourusername/snake-game-java.git
    cd snake-game-java
+
+
+##License
+
+This project is licensed under the GNU General Public Lixense v3.0 (LICENSE)
+CREATIVE COMMONS LICENSE - SEE THE [LICENSE.MD](LICENSE) file for details. 
